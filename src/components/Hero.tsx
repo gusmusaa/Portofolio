@@ -30,9 +30,9 @@ const Hero: React.FC = () => {
             <a href="#certificates" className="px-8 py-3 bg-accent hover:bg-sky-500 text-primary font-bold rounded-full transition-all flex items-center justify-center gap-2">
               View Certificates <ArrowRight className="w-4 h-4" />
             </a>
-            <button className="px-8 py-3 border border-gray-600 hover:border-accent text-white hover:text-accent font-medium rounded-full transition-all flex items-center justify-center gap-2">
+            {/* <button className="px-8 py-3 border border-gray-600 hover:border-accent text-white hover:text-accent font-medium rounded-full transition-all flex items-center justify-center gap-2">
               Download CV <Download className="w-4 h-4" />
-            </button>
+            </button> */}
           </div>
         </div>
 
