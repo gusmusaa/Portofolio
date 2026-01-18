@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Download } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { PORTFOLIO_OWNER, OWNER_ROLE, OWNER_BIO } from '../constants';
 
 const Hero: React.FC = () => {
