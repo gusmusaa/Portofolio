@@ -54,6 +54,5 @@ export const CERTIFICATES: Certificate[] = [
 
 export const SOCIALS: SocialLink[] = [
   { platform: "GitHub", url: "https://github.com/gusmusaa", iconName: "github" },
-  { platform: "LinkedIn", url: "https://www.linkedin.com/in/alief-albayu-0a7306363/", iconName: "linkedin" },
-  { platform: "Twitter", url: "https://twitter.com", iconName: "twitter" },
+  { platform: "LinkedIn", url: "https://www.linkedin.com/in/alief-albayu-0a7306363/", iconName: "linkedin" }
 ];
