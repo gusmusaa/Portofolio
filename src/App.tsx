@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import About from './components/Skills';
 import Certificates from './components/Certificates';
 import Footer from './components/Footer';
-import ChatWidget from './components/ChatWidget';
+
 
 const App: React.FC = () => {
   return (
@@ -16,7 +16,6 @@ const App: React.FC = () => {
         <Certificates />
       </main>
       <Footer />
-      <ChatWidget />
     </div>
   );
 };
